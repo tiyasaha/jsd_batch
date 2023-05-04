@@ -1,0 +1,10 @@
+void main()
+{
+int x,y,a;
+printf("enter the value of x\n");
+scanf("%d",&x);
+printf("enter the value of y\n");
+scanf("%d",&y);
+a=x*y;
+printf("the area of the square is %d",a);
+}
