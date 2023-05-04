@@ -8,6 +8,6 @@ scanf("%d",&y);
 a=x*y;
 printf("the area of the square is %d\n",a);
 scanf("%d\n",&y);
-a=2x+2y;
+a=2(x+y);
 printf("the surface-area of the square is %d",sa);
 }
