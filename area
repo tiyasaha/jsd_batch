@@ -1,10 +1,13 @@
 void main()
 {
-int x,y,a;
+int x,y,a,sa;
 printf("enter the value of x\n");
 scanf("%d",&x);
 printf("enter the value of y\n");
 scanf("%d",&y);
 a=x*y;
-printf("the area of the square is %d",a);
+printf("the area of the square is %d\n",a);
+scanf("%d\n",&y);
+a=2(x+y);
+printf("the surface-area of the square is %d",sa);
 }
